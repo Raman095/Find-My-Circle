@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "846978271983",
+    "project_id": "find-your-circle-project",
+    "storage_bucket": "find-your-circle-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846978271983:android:c3b5b7371a8ba3a110a91a",
+        "android_client_info": {
+          "package_name": "com.example.findmycircle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846978271983-m62tv5n3hk8ua7plq8vf3i7fb0e9c5ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findmycircle",
+            "certificate_hash": "488ed2334e7b1c0c22836c43b0b5ebacf17bbabf"
+          }
+        },
+        {
+          "client_id": "846978271983-kbf256vu5nkb14l7bbbljmd3179ckk51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPkztnwFgQPMN1IKd7rCS-pMvPl-L5ew8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846978271983-kbf256vu5nkb14l7bbbljmd3179ckk51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

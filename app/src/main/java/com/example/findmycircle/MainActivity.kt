@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        val idToken = "846978271983-kbf256vu5nkb14l7bbbljmd3179ckk51.apps.googleusercontent.com"
+        val idToken = "paste your web-client key here"
 
         val googleSignInOptions = GoogleSignInOptions.Builder(
             GoogleSignInOptions.DEFAULT_SIGN_IN
